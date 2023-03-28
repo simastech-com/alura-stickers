@@ -74,7 +74,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <b>Colocar contorno (outline) no texto da imagem: </b> Desafio Realizado.
                     </li>
                     <li>
-                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Desafio Realizado. Entretanto, nos links fornecidos só há filmes com rating superior a 5 e por isso apenas a mensagem <b>Recomendo</b> e sua respectiva imagem foram exibidos.
+                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Desafio Realizado. Entretanto, nos links fornecidos só há filmes com rating superior a 5 e por isso apenas a mensagem <i><b>Recomendo</b></i> e sua respectiva imagem foram exibidos.
                     </li>
                 </ul>
             </li>
