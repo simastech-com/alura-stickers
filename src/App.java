@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.InputStream;
 import java.net.URI;
+import java.net.URL;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
@@ -53,18 +55,7 @@ public class App
 
                 //Exibir e manipular os dados.
 
-                int maxCaract = 0;
-                for (Map<String,String> filme : listaDeFilmes) 
-                {
-                    int numCaract = filme.get("title").length();
-                    if(numCaract > maxCaract)
-                    {
-                        maxCaract = numCaract;
-                    }
-                }
-
-                maxCaract = 69;
-
+                int maxCaract = 69;
 
                 System.out.println("\n");
                 for (Map<String,String> filme : listaDeFilmes) 
@@ -103,10 +94,14 @@ public class App
 
                     System.out.println("\u001b[0m");
 
-                    System.out.println("\u001b[1m\u001b[31mPoster: \u001b[0m\u001b[36m" + filme.get("image")+"\u001b[0m");
+                    String urlImagem = filme.get("image");
+                    System.out.println("\u001b[1m\u001b[31mPoster: \u001b[0m\u001b[36m" + urlImagem +"\u001b[0m");
 
                     System.out.println("\n");
-
+                    
+                    InputStream inputStream = new URL(urlImagem).openStream();
+                    GeradoraDeFigurinhas geradoraDeFigurinhas = new GeradoraDeFigurinhas();
+                    geradoraDeFigurinhas.cria(inputStream, filme.get("title")+".png");
                 }
 
             }

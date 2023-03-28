@@ -13,13 +13,13 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
             <b>Desafios:</b>
                 <ul>
                     <li>
-                        <b>Trocar o link para obter as melhores séries e as séries mais populares:</b> Esta etapa foi realizada, mas como o link foi exportado para um arquivo separado, então optou-se por colocar todos os links solicitados e fazer o teste em uma única execução, exibindo o resultado dos 4 links.
+                        <b>Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares:</b> Esta etapa foi realizada, mas como o link foi exportado para um arquivo separado, então optou-se por colocar todos os links solicitados e fazer o teste em uma única execução, exibindo o resultado dos 4 links.
                     </li>
                     <li>
-                        <b>Personalizar prompt com cores e emojis:</b> Desafio realizado, mas notou-se que a estrela é exibida de forma diferente no cmd do windows. Além das cores e do emoji de estrela para exibir o rating do filme, também foi inserido um símbolo de like se o rating do filme for maior ou igual a 5 e um emoji de deslike se o rating for inferior a 5.
+                        <b>Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais:</b> Desafio realizado, mas notou-se que a estrela é exibida de forma diferente no cmd do windows. Além das cores e do emoji de estrela para exibir o rating do filme, também foi inserido um símbolo de like se o rating do filme for maior ou igual a 5 e um emoji de deslike se o rating for inferior a 5.
                     </li>
                     <li>
-                        <b>Colocar chave do IMDB em um arquivo de configuração:</b> Não foi possível obter a chave devido à instabilidade da API do IMDB. Deste modo, foram colocados os links em um arquivo de configuração somente para concluir o desafio. Os links ficaram no arquivo Link.txt.
+                        <b>Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente:</b> Não foi possível obter a chave devido à instabilidade da API do IMDB. Deste modo, foram colocados os links em um arquivo de configuração somente para concluir o desafio. Os links ficaram no arquivo Link.txt.
                     </li>
                 </ul>
             </li>
