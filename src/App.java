@@ -1,4 +1,6 @@
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.InputStream;
 import java.net.URI;
@@ -72,12 +74,19 @@ public class App
                     float fRating = Float.parseFloat(filme.get("imDbRating"));
                     int rating = (int) Math.floor(fRating);
 
+                    String textoFigurinha = "";
+                    String figurinhaWilliam = "";
+
                     if(rating>=5)
                     {
+                        textoFigurinha = "RECOMENDO!";
+                        figurinhaWilliam = "img/AuxiliarSticker/Recomendo.jpg";
                         System.out.print("👍 ");
                     }
                     else
                     {
+                        textoFigurinha = "NÃO RECOMENDO!";
+                        figurinhaWilliam = "img/AuxiliarSticker/NaoRecomendo.jpg";
                         System.out.print("👎 ");
                     }
 
@@ -100,8 +109,10 @@ public class App
                     System.out.println("\n");
                     
                     InputStream inputStream = new URL(urlImagem).openStream();
+                    InputStream imagemWilliam = new FileInputStream(new File(figurinhaWilliam));
+
                     GeradoraDeFigurinhas geradoraDeFigurinhas = new GeradoraDeFigurinhas();
-                    geradoraDeFigurinhas.cria(inputStream, filme.get("title")+".png");
+                    geradoraDeFigurinhas.cria(inputStream, filme.get("title").replace(":", " -") +".png", textoFigurinha, imagemWilliam);
                 }
 
             }

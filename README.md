@@ -54,6 +54,58 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
     </li>
     <li>
         <h3>Aula 02 | 28/03/2023 | Gerando figurinhas para WhatsApp.</h3>
+        <ul>
+            <li>
+                <b>Objetivo:</b> Gerar figurinhas para WhatsApp a partir das imagens fornecidas pela API da IMDB. Mais uma vez, devido à instabilidade do IMDB, foram utilizados os links alternativos oferecidos pelos instrutores. Foi percebido que as figurinhas de alguns filmes não eram geradas devido a presença de dois pontos (:) no nome do arquivo. Para resolver este problema os dois pontos (:) foram substituídos por traço (-).
+            </li>
+            <li>
+            <b>Desafios:</b>
+                <ul>
+                    <li>
+                        <b>Criar diretório de saída das imagens, se ainda não existir: </b> Desafio realizado.
+                    </li>
+                    <li>
+                        <b>Centralizar o texto na figurinha: </b> desafio realizado.
+                    </li>
+                    <li>
+                        <b>Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes: </b> Realizado. Foi colocado a Comic Sans.
+                    </li>
+                    <li>
+                        <b>Colocar contorno (outline) no texto da imagem: </b> Realizado.
+                    </li>
+                    <li>
+                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Realizado.
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <b>Resultados:</b>
+                <table>
+                    <tr>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopMovies.png" width="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/MostPopularMovies_TopTvs.png" width="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopTvs_MostPopularTvs.png" width="200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Top Movies
+                        </td>
+                        <td>
+                            Most Popular Movies & Top Tvs
+                        </td>
+                        <td>
+                            Top Tvs & Most Popular Tvs
+                        </td>
+                    </tr>
+                </table>
+            </li>
+        </ul>
     </li>
     <li>
         <h3>Aula 03 | 29/03/2023 | Ligando as pontas: Refatoração e orientação a objetos.</h3>
