@@ -27,14 +27,14 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 <b>Resultados:</b>
                 <table>
                     <tr>
-                        <td>
-                            <center><img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopMovies.png" width="200"></center>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopMovies.png" width="200">
                         </td>
                         <td align="center">
-                            <center><img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/MostPopularMovies_TopTvs.png" width="200"></center>
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/MostPopularMovies_TopTvs.png" width="200">
                         </td>
-                        <td>
-                            <center><img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopTvs_MostPopularTvs.png" width="200"></center>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopTvs_MostPopularTvs.png" width="200">
                         </td>
                     </tr>
                     <tr>
