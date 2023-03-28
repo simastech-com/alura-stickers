@@ -108,7 +108,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Schindler's%20List.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="hhttps://github.com/simastech-com/alura-stickers/blob/main/saida/Stranger%20Things.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Stranger%20Things.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Boys.png" height="200">
