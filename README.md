@@ -91,19 +91,17 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Elvis.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Planet%20Earth%20II.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Planet%20Earth.png" height="200">
                         </td>
+                    </tr>
+                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Pulp%20Fiction.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Schindler's%20List.png" height="200">
                         </td>
@@ -113,19 +111,17 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Boys.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Dark%20Knight.png" height="200">
                         </td>
+                    </tr>
+                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Godfather%20-%20Part%20II.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Godfather.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Good%2C%20the%20Bad%20and%20the%20Ugly.png" height="200">
                         </td>
@@ -146,13 +142,9 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Thor%20-%20Love%20and%20Thunder.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
-                        <td align="center"></td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Top%20Gun%20-%20Maverick.png" height="200">
                         </td>
-                        <td align="center"></td>
                     </tr>
                 </table>
             </li>
