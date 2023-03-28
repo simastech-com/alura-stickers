@@ -16,10 +16,10 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <b>Trocar o link para obter as melhores séries e as séries mais populares:</b> Esta etapa foi realizada, mas como o link foi exportado para um arquivo separado, então optou-se por colocar todos os links solicitados e fazer o teste em uma única execução, exibindo o resultado dos 4 links.
                     </li>
                     <li>
-                        <b>Personalizar prompt com cores e emojis:</b> Desafio realizado, mas notou-se que a estrela é exibida de forma diferente no cmd do windows.
+                        <b>Personalizar prompt com cores e emojis:</b> Desafio realizado, mas notou-se que a estrela é exibida de forma diferente no cmd do windows. Além das cores e do emoji de estrela para exibir o rating do filme, também foi inserido um símbolo de like se o rating do filme for maior ou igual a 5 e um emoji de deslike se o rating for inferior a 5.
                     </li>
                     <li>
-                        <b>Colocar chave do IMDB em um arquivo de configuração:</b> Não foi possível obter a chave devido à instabilidade da API do IMDB. Deste modo, foram colocados os link em um arquivo de configuração somente para concluir o desafio. Os links ficaram no arquivo Link.txt.
+                        <b>Colocar chave do IMDB em um arquivo de configuração:</b> Não foi possível obter a chave devido à instabilidade da API do IMDB. Deste modo, foram colocados os links em um arquivo de configuração somente para concluir o desafio. Os links ficaram no arquivo Link.txt.
                     </li>
                 </ul>
             </li>
@@ -28,13 +28,24 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 <table>
                     <tr>
                         <td>
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/MostPopularMovies_TopTvs.png" width="200">
-                        </td>
-                        <td>
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopMovies.png" width="200">
                         </td>
                         <td>
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/MostPopularMovies_TopTvs.png" width="200">
+                        </td>
+                        <td>
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopTvs_MostPopularTvs.png" width="200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Top Movies
+                        </td>
+                        <td>
+                            Most Popular Movies & Top Tvs
+                        </td>
+                        <td>
+                            Top Tvs & Most Popular Tvs
                         </td>
                     </tr>
                 </table>
