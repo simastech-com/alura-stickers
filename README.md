@@ -65,7 +65,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <b>Criar diretório de saída das imagens, se ainda não existir: </b> Desafio realizado.
                     </li>
                     <li>
-                        <b>Centralizar o texto na figurinha: </b> Desafio realizado.
+                        <b>Centralizar o texto na figurinha:</b> Desafio realizado.
                     </li>
                     <li>
                         <b>Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes: </b> Desafio Realizado. Foi colocado a Comic Sans.
@@ -74,7 +74,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <b>Colocar contorno (outline) no texto da imagem: </b> Desafio Realizado.
                     </li>
                     <li>
-                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Desafio Realizado.
+                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Desafio Realizado. Entretanto, nos links fornecidos só há filmes com rating superior a 5 e por isso apenas a mensagem <b>Recomendo</b> e sua respectiva imagem foram exibidos.
                     </li>
                 </ul>
             </li>
