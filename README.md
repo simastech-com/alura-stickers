@@ -65,16 +65,16 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <b>Criar diretório de saída das imagens, se ainda não existir: </b> Desafio realizado.
                     </li>
                     <li>
-                        <b>Centralizar o texto na figurinha: </b> desafio realizado.
+                        <b>Centralizar o texto na figurinha: </b> Desafio realizado.
                     </li>
                     <li>
-                        <b>Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes: </b> Realizado. Foi colocado a Comic Sans.
+                        <b>Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes: </b> Desafio Realizado. Foi colocado a Comic Sans.
                     </li>
                     <li>
-                        <b>Colocar contorno (outline) no texto da imagem: </b> Realizado.
+                        <b>Colocar contorno (outline) no texto da imagem: </b> Desafio Realizado.
                     </li>
                     <li>
-                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Realizado.
+                        <b>Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB: </b> Desafio Realizado.
                     </li>
                 </ul>
             </li>
@@ -83,24 +83,13 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 <table>
                     <tr>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopMovies.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/12%20Angry%20Men.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/MostPopularMovies_TopTvs.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Breaking%20Bad.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2001/TopTvs_MostPopularTvs.png" width="200">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Top Movies
-                        </td>
-                        <td>
-                            Most Popular Movies & Top Tvs
-                        </td>
-                        <td>
-                            Top Tvs & Most Popular Tvs
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Elvis.png" width="200">
                         </td>
                     </tr>
                 </table>
