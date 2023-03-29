@@ -152,6 +152,98 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
     </li>
     <li>
         <h3>Aula 03 | 29/03/2023 | Ligando as pontas: Refatoração e orientação a objetos.</h3>
+        <ul>
+            <li>
+                <b>Objetivo:</b> Obter imagens da API da Nasa e refatorar o código utilizando orientação à objetos. Obs: Para manter a compatibilidade e utilizar tanto a API do IMDB como a API da Nasa, foram removidos os emojis do terminal e os links são colocados no código. Foi necessário refazer a classe JSonParser, pois não estava obtendo os dados corretamente, sendo que para isso foi utilizado Google GSON e a classe JsonParser foi modificada para MyJSonParser a fim de evitar conflitos.
+            </li>
+            <li>
+            <b>Desafios:</b>
+                <ul>
+                    <li>
+                        <b>Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16: </b> Desafio realizado.
+                    </li>
+                    <li>
+                        <b>Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP:</b> Desafio realizado.
+                    </li>
+                    <li>
+                        <b>Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra: </b> Desafio Realizado.
+                    </li>
+                    <li>
+                        <b>Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado: </b> Desafio Realizado.
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <b>Resultados:</b>
+                <table>
+                    <tr>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/12%20Angry%20Men.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Breaking%20Bad.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Elvis.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Planet%20Earth%20II.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Planet%20Earth.png" height="200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Pulp%20Fiction.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Schindler's%20List.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Stranger%20Things.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Boys.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Dark%20Knight.png" height="200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Godfather%20-%20Part%20II.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Godfather.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Good%2C%20the%20Bad%20and%20the%20Ugly.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Lord%20of%20the%20Rings%20-%20The%20Return%20of%20the%20King.png" height="200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Shawshank%20Redemption.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Terminal%20List.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Thor%20-%20Love%20and%20Thunder.png" height="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Top%20Gun%20-%20Maverick.png" height="200">
+                        </td>
+                    </tr>
+                </table>
+            </li>
+        </ul>
     </li>
     <li>
         <h3>Aula 04 | 30/03/2023 | Criando nossa própria API com Spring.</h3>
