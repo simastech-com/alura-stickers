@@ -92,7 +92,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Elvis.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="hhttps://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Planet%20Earth%20II.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Planet%20Earth%20II.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Planet%20Earth.png" height="200">
@@ -106,7 +106,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Schindler's%20List.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="hhttps://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Stranger%20Things.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/Stranger%20Things.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2002/The%20Boys.png" height="200">
