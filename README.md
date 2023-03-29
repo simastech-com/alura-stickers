@@ -154,7 +154,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
         <h3>Aula 03 | 29/03/2023 | Ligando as pontas: Refatoração e orientação a objetos.</h3>
         <ul>
             <li>
-                <b>Objetivo:</b> Obter imagens da API da Nasa e refatorar o código utilizando orientação à objetos. Obs: Para manter a compatibilidade e utilizar tanto a API do IMDB como a API da Nasa, foram removidos os emojis do terminal e os links são colocados no código. Foi necessário refazer a classe JSonParser, pois não estava obtendo os dados corretamente, sendo que para isso foi utilizado Google GSON e a classe JsonParser foi modificada para MyJSonParser a fim de evitar conflitos.
+                <b>Objetivo:</b> Obter imagens da API da Nasa e refatorar o código utilizando orientação à objetos. Obs: Para manter a compatibilidade e utilizar tanto a API do IMDB como a API da Nasa, foram removidos os emojis do terminal e os links foram colocados no código. Foi necessário refazer a classe JSonParser, pois não estava obtendo os dados corretamente, sendo que para isso foi utilizado Google GSON e a classe JsonParser foi modificada para MyJSonParser a fim de evitar conflitos.
             </li>
             <li>
             <b>Desafios:</b>
