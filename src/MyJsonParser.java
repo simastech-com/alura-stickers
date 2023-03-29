@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
@@ -13,7 +12,6 @@ public class MyJsonParser
     public List<Map<String,String>> parse(String json, String[] fields)
     {
         List<Map<String,String>> mapList = new ArrayList<>();
-        Gson g = new Gson();
 
         int index =0;
         int oldIndex = 0;
