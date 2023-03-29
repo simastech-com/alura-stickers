@@ -189,11 +189,11 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Pulp%20Fiction.png" height="200">
                         </td>
+                    </tr>
+                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Satellites%20Behind%20Pinnacles.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Schindler's%20List.png" height="200">
                         </td>
@@ -203,23 +203,24 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Godfather%20-%20Part%20II.png" height="200">
                         </td>
+                    </tr>
+                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Godfather.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Good%2C%20the%20Bad%20and%20the%20Ugly.png" height="200">
                         </td>
-                    </tr>
-                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring.png" height="200">
                         </td>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Lord%20of%20the%20Rings%20-%20The%20Return%20of%20the%20King.png" height="200">
                         </td>
+                    </tr>
+                    <tr>
                         <td align="center">
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Shawshank%20Redemption.png" height="200">
-                        </td>
                         </td>
                     </tr>
                 </table>
