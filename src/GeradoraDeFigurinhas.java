@@ -47,7 +47,7 @@ public class GeradoraDeFigurinhas
 
         // Configurar a fonte e cor
         Font fonte = new Font("Comic Sans MS", Font.BOLD, fontSize);
-        graphics.setColor(Color.YELLOW);
+        graphics.setColor(Color.BLUE);
         graphics.setFont(fonte);
 
         int[] espacamentosSuperiores = new int[partes.length];
@@ -72,27 +72,6 @@ public class GeradoraDeFigurinhas
         {
             graphics.drawString(partes[i], espacamentosLaterais[i], espacamentosSuperiores[i]);
         }
-
-        //Colocando contorno no texto
-        /*
-        for (int i=0; i<partes.length;i++) 
-        {
-            FontRenderContext fontRenderContext = graphics.getFontRenderContext();
-            AffineTransform affineTransform = graphics.getTransform();
-
-            TextLayout textLayout = new TextLayout(partes[i], fonte, fontRenderContext);
-            Shape shape = textLayout.getOutline(null);
-            
-            affineTransform.translate(espacamentosLaterais[i], espacamentosSuperiores[i]);
-            graphics.setTransform(affineTransform);
-
-            Stroke Stroke = new BasicStroke(3.0f);
-            graphics.setStroke(Stroke);
-
-            graphics.setColor(Color.BLUE);
-            graphics.draw(shape);
-            graphics.setClip(shape);
-        }*/
 
         //Verifica se o diretório de saída existe. Se não existir, cria o diretório.
         File diretorioSaida = new File("saida");
