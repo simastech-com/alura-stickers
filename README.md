@@ -178,67 +178,48 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 <table>
                     <tr>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/12%20Angry%20Men.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/12%20Angry%20Men.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Breaking%20Bad.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Find%20the%20Man%20in%20the%20Moon.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Elvis.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/M51%20-%20The%20Whirlpool%20Galaxy%20from%20Hubble.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Planet%20Earth%20II.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Pulp%20Fiction.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Planet%20Earth.png" height="200">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Pulp%20Fiction.png" height="200">
-                        </td>
-                        <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Schindler's%20List.png" height="200">
-                        </td>
-                        <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Stranger%20Things.png" height="200">
-                        </td>
-                        <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Boys.png" height="200">
-                        </td>
-                        <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Dark%20Knight.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Satellites%20Behind%20Pinnacles.png" height="200">
                         </td>
                     </tr>
                     <tr>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Godfather%20-%20Part%20II.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/Schindler's%20List.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Godfather.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Dark%20Knight.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Good%2C%20the%20Bad%20and%20the%20Ugly.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Godfather%20-%20Part%20II.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Godfather.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Lord%20of%20the%20Rings%20-%20The%20Return%20of%20the%20King.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Good%2C%20the%20Bad%20and%20the%20Ugly.png" height="200">
                         </td>
                     </tr>
                     <tr>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Shawshank%20Redemption.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/The%20Terminal%20List.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Lord%20of%20the%20Rings%20-%20The%20Return%20of%20the%20King.png" height="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Thor%20-%20Love%20and%20Thunder.png" height="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2003/The%20Shawshank%20Redemption.png" height="200">
                         </td>
-                        <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/saida/Top%20Gun%20-%20Maverick.png" height="200">
                         </td>
                     </tr>
                 </table>
