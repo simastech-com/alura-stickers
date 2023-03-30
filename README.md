@@ -231,7 +231,7 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
         <h3>Aula 04 | 30/03/2023 | Criando nossa própria API com Spring.</h3>
         <ul>
             <li>
-                <b>Objetivo:</b> Obter figurinhas a partir de uma API própria.
+                <b>Objetivo:</b> Obter figurinhas a partir de uma API própria. ApI disponível em: https://github.com/simastech-com/linguagens-api
             </li>
             <li>
                 <b>Resultados:</b>
