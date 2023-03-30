@@ -41,7 +41,7 @@ public class GeradoraDeFigurinhas
 
         // Configurar a fonte e cor
         Font fonte = new Font("Comic Sans MS", Font.BOLD, fontSize);
-        graphics.setColor(Color.BLUE);
+        graphics.setColor(Color.RED);
         graphics.setFont(fonte);
 
         int[] espacamentosSuperiores = new int[partes.length];
