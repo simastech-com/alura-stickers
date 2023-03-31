@@ -259,5 +259,43 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
     </li>
     <li>
         <h3>Aula 05 | 31/03/2023 | Publicando nossa API no Cloud.</h3>
+        <ul>
+            <li>
+                <b>Objetivo:</b> Utilizar API própria publicada no Fly.io. 
+                <ul>
+                    <li>
+                        <b>GitHub da API:</b> https://github.com/simastech-com/linguagens-api
+                    </li>
+                    <li>
+                        <b>URL da API:</b> https://alura-linguagens-simaswilliam2.fly.dev/linguagens
+                    </li>
+                    <li>
+                        <b>Adicionais:</b> Para finalização do projeto, foi colocado para definir automaticamente o tamanho da fonte de acordo com a largura da imagem, espaçamento do texto de altura automática e um menu inicial para escolher de qual API deseja baixar.
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <b>Resultados:</b>
+                <table>
+                    <tr>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Java.png" width="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/JavaScript.png" width="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Kotlin.png" width="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/PHP.png" width="200">
+                        </td>
+                        <td align="center">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Ruby.png" width="200">
+                        </td>
+                    </tr>
+                </table>
+            </li>
+        </ul>
     </li>
 </ul>
