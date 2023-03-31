@@ -3,6 +3,7 @@
 Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/2023 e 31/03/2023. Trata-se de um programa em Java para baixar imagens de algumas APIs e gerar figurinhas para redes sociais.
 
 Clique na imagem abaixo para assistir o vídeo.
+
 [![Watch the video](https://img.youtube.com/vi/ujaCt-Mt6Qo/hqdefault.jpg)](https://www.youtube.com/watch?v=ujaCt-Mt6Qo)</li>
 
 <ul>
