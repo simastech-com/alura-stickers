@@ -238,19 +238,19 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 <table>
                     <tr>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Menu.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Java.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Java.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/JavaScript.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/JavaScript.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Kotlin.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Kotlin.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/PHP.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Ruby.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Ruby.png" width="200">
                         </td>
                     </tr>
                 </table>
@@ -279,19 +279,19 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                 <table>
                     <tr>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Java.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Menu.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/JavaScript.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Java.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Kotlin.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/JavaScript.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/PHP.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Kotlin.png" width="200">
                         </td>
                         <td align="center">
-                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2004/Ruby.png" width="200">
+                            <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Ruby.png" width="200">
                         </td>
                     </tr>
                 </table>
