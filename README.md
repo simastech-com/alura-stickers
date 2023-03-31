@@ -294,13 +294,10 @@ Projeto desenvolvido na imersão Java da Alura, realizada entre os dias 27/03/20
                             <img src="https://github.com/simastech-com/alura-stickers/blob/main/img/Aula%2005/Ruby.png" width="200">
                         </td>
                     </tr>
-                    <tr>
-                        <td colspan="5" align="center">
-                            Clique na imagem abaixo para assistir o vídeo.<br/>
-                            [![Watch the video](https://img.youtube.com/vi/ujaCt-Mt6Qo/hqdefault.jpg)](https://www.youtube.com/watch?v=ujaCt-Mt6Qo)
-                        </td>
-                    </tr>
                 </table>
+                <li>
+                Clique na imagem abaixo para assistir o vídeo.<br/>
+                [![Watch the video](https://img.youtube.com/vi/ujaCt-Mt6Qo/hqdefault.jpg)](https://www.youtube.com/watch?v=ujaCt-Mt6Qo)</li>
             </li>
         </ul>
     </li>
